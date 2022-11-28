@@ -1,7 +1,6 @@
 # An Animated Map of the Earth
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
-[![Twitter Follow](https://img.shields.io/twitter/follow/eleanor_lutz.svg?style=flat-square&logo=twitter&label=Follow)](https://twitter.com/eleanor_lutz)
 [![GitHub Follow](https://img.shields.io/github/followers/eleanorlutz.svg?style=flat-square&logo=github&label=Follow)](https://github.com/eleanorlutz)
 
 This repository explains how to make an animated map of Earth using open-source code and data from NASA, USGS, and Natural Earth. Software used includes `Python 3.7.1`, `Illustrator CC 2019` and `Photoshop CC 2019`. If you have comments or suggestions for this tutorial, please let me know [on my blog](http://tabletopwhale.com/2019/07/08/an-animated-map-of-earth.html)! You can also buy the [finished map here](https://www.redbubble.com/people/eleanorlutz/works/39425726) if you like.
